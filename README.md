@@ -1,2 +1,3 @@
-# maxi-star
+# maxi-star 💫
 non
+update
