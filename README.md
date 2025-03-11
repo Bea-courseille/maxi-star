@@ -1,2 +1,2 @@
-# repository-name
+# maxi-star
 non
