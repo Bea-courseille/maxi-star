@@ -1,2 +1,3 @@
 # maxi-star 💫
-non
+star
+
